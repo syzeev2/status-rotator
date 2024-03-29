@@ -1,0 +1,30 @@
+{
+    "token": "",
+    "delay": 5,
+    "statuses": [
+        {
+            "status": "discord.gg/syz",
+            "emoji_id": "1220142638083211284",
+            "emoji_name": ":2586purplecrown:",
+            "nitro_emoji": true
+        },
+        {
+            "status": "discord.gg/vyee",
+            "emoji_id": "1221441690053775380",
+            "emoji_name": ":PM_WhiteCrown:",
+            "nitro_emoji": true
+        },
+        {
+            "status": "discord.gg/skidders",
+            "emoji_id": "1218601452142989313",
+            "emoji_name": ":y_crown:",
+            "nitro_emoji": true
+        },
+        {
+            "status": "discord.gg/s-bio",
+            "emoji_id": "1219421442324562080",
+            "emoji_name": ":arrow:",
+            "nitro_emoji": true
+        }
+    ]
+}
